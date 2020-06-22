@@ -1,2 +1,2 @@
 # Tribute-Site
-Responsive mobile-first website built using Bootstrap. A tribute to Alan Turing.
+Responsive mobile-first website built using Bootstrap 4. A tribute to Alan Turing.
